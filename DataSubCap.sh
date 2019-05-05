@@ -3,7 +3,7 @@
 # DataSubCap v1.00 (04/02/2019)
 #
 # GitHub        - https://github.com/Calcousin55/DataSubCap
-# Official Page - http://www.linksysinfo.org/index.php?posts//
+# 
 
 #-------------------- Variables -----------------------
 
