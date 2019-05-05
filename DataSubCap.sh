@@ -59,7 +59,7 @@ AllowedIPs="127.0.0.1"
 AllowedNets="10.0.0.0/8,172.16.0.0/12,192.168.0.0/16"
 
 # Reinitialize Iptables when changes are made or on a router reboot/power up
-PersistantIptables=1
+PersistantIptables=0
 
 # Enable emailing
 # Emails are send when any of the following criteria has been reached and their option is enabled
